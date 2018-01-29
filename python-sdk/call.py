@@ -3,22 +3,22 @@
 
 # 您需要先注册一个App，并将得到的API key和API secret写在这里。
 # You need to register your App first, and enter you API key/secret.
-API_KEY = "<YOUR_API_KEY>"
-API_SECRET = "<YOUR_API_SECRETַ>"
+API_KEY = "FL2Wyu_DrHYxvhogNj3eP7wJbmyCfpR6"
+API_SECRET = "VNsM-23ZwtuxICgRLIOLDIS_bjbdwuDI"
 
 # 网络图片的URL地址,调用demo前请填上内容
 # The url of network picture, please fill in the contents before calling demo
 face_one = 'http://bj-mc-prod-asset.oss-cn-beijing.aliyuncs.com/mc-official/images/face/demo-pic11.jpg'
 # 本地图片的地址,调用demo前请填上内容
 # Local picture location, please fill in the contents before calling demo
-face_two = './demo.jpeg'
+face_two = './photostest/s1.jpg'
 # 本地图片的地址,调用demo前请填上内容
 # Local picture location, please fill in the contents before calling demo
-face_search = './demo.jpeg'
+face_search = './photostest/s1.jpg'
 
 #国际版的服务器地址
 #the server of international version
-api_server_international = 'https://api-us.faceplusplus.com/facepp/v3/'
+api_server_international = 'https://api-fr.faceplusplus.com/facepp/v3/'
 
 # Import system libraries and define helper functions
 # 导入系统库并定义辅助函数
