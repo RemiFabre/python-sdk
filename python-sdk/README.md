@@ -1,4 +1,7 @@
-# FacePlusPlus Python SDK
+# FacePlusPlus Python SDK (forked)
+
+The server used for france seems to be :
+SERVER = 'https://api-fr.faceplusplus.com/facepp/v3/'
 
 This is the Face++ python SDK suite. Note that python2.7 is required.
 
